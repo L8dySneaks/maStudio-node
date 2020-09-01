@@ -1,0 +1,23 @@
+{
+  "name": "mastudio-node",
+  "version": "1.0.0",
+  "description": "michaelastudio.com website built with Prismic CMS tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L8dySneaks/maStudio-node.git"
+  },
+  "keywords": [
+    "Prismic",
+    "Node"
+  ],
+  "author": "Stephanie Symosko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L8dySneaks/maStudio-node/issues"
+  },
+  "homepage": "https://github.com/L8dySneaks/maStudio-node#readme"
+}
