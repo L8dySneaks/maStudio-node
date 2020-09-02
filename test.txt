@@ -1,0 +1,2 @@
+add library changed to PR template
+update Docker files to copy after npm install
