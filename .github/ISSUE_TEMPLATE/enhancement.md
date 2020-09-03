@@ -2,7 +2,7 @@
 name: Feature Request
 about: Suggest a feature/enhancement that should be added to monorepo
 title: ''
-labels: 'feature', 'enhancement'
+labels: feature, enhancement
 assignees: ''
 
 ---
