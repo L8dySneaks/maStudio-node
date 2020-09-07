@@ -1,8 +1,8 @@
 ---
-name: Issue report
-about: Create a report to help us improve
+name: Feature Request
+about: Suggest a feature/enhancement that should be added to monorepo
 title: ''
-labels: ''
+labels: feature, enhancement
 assignees: ''
 
 ---
