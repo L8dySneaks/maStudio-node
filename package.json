@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/L8dySneaks/maStudio-node/issues"
   },
-  "homepage": "https://github.com/L8dySneaks/maStudio-node#readme"
+  "homepage": "https://github.com/L8dySneaks/maStudio-node#readme",
+  "dependencies": {
+    "prismic-dom": "^2.2.3",
+    "prismic-javascript": "^3.0.2"
+  }
 }
